@@ -3,5 +3,12 @@ export const ROUTES = {
       url: '/',
       label: 'Home',
     },
-    // Add more routes as needed
+    LOGIN: {
+      url: '/login',
+      label: 'Login'
+    },
+    DASHBOARD: {
+      url: '/dashboard',
+      label: 'Dashboard'
+    }
   };

@@ -7,8 +7,8 @@ import { QueryProvider } from "@/contexts/react-query/query-client-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "My App",
-  description: "A production-ready Next.js starter",
+  title: "Meter-X",
+  description: "Meter-X Decentralized platform for development",
 };
 
 export default function RootLayout({
