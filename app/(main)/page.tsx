@@ -1,11 +1,11 @@
-'use client';
+"use client";
 
-import Navbar from "@/components/common/navbar";
+import HomePage from "@/container/home-page/home-page";
 
-export default function HomePage() {
+export default function Page() {
   return (
     <>
-    <Navbar />
+      <HomePage />
     </>
-  )
+  );
 }
